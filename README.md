@@ -1,4 +1,4 @@
-# Daily-Coding-Problem
+# Leetcode-Solutions
 
-This is a repository where I solve and upload solutions to coding questions from dailycodingproblem.com. 
+This is a repository where I solve and upload solutions to leetcode problems.
 
